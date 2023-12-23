@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iheb Boughanmi</h1>
-<h3 align="center">E-Business Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihebboughanmi&label=Profile%20views&color=0e75b6&style=flat" alt="ihebboughanmi" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **E-business application client/admin**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Java, python**
+- 💬 Ask me about **MERN Stack, Java, python**
 
 - 📫 How to reach me **ihebboughanmi17@gmail.com**
 
