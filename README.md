@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **MERN Stack, Java, python**
+- 💬 Ask me about **MERN Stack, Java, python, C, C#, SQL, PLSQL**
 
 - 📫 How to reach me **ihebboughanmi17@gmail.com**
 
